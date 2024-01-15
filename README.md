@@ -13,3 +13,5 @@ Intermediate level uses a particular AI Algorithm based on common player psychol
 Expert uses a the Markov Chain Concept to allow the Machine to adapt to player strategies and accurately predict their next pick. 
 
 Super hard level is well... Super hard.
+
+![image](https://github.com/harshvardhan2002/rock-paper-scissors/assets/76556011/c67f542d-bc76-48fc-be19-a293bd2bfd64)
